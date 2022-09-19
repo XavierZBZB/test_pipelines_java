@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-
+  name: UDCN-SeIf-hosted-Agent
 steps:
 - task: Maven@3
   inputs:
