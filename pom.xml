@@ -46,18 +46,6 @@
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-  </properties>	
-  <distributionManagement>
-      <repository>
-	      <id>qwf-ssc-center</id>
-		  <name>qwf-ssc-center</name>
-		  <url>http://localhost:8081/artifactory/qwf-ssc-center</url>
-      </repository>	
-      <snapshotRepository>
-	      <id>qwf-ssc-center</id>
-		  <name>qwf-ssc-center</name>
-		  <url>http://localhost:8081/artifactory/qwf-ssc-center</url>
-      </snapshotRepository>
-  </distributionManagement>
-	  
+  </properties>
+	
 </project>
